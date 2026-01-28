@@ -5,9 +5,9 @@
 
 <div align=center>
 <h3>NomadLog</h3>
-<h4>5팀 <img src="https://github.com/user-attachments/assets/fb9d5d83-ac10-4d15-8ec0-7be97ac05ebc"  width="15" height="15" alt="이모티콘"> 김정훈
-<img src="https://github.com/user-attachments/assets/f1c6fb4c-4980-4551-850e-04c13fa47ca7"   width="15" height="15" alt="이모티콘"> 김진경
-<img src="https://github.com/user-attachments/assets/8b28a77c-607a-4ff0-86c6-5ea120f46909" width="15" height="15" alt="이모티콘"> (팀장)이지연</h4>
+<h4>5팀 <img src="https://github.com/user-attachments/assets/fb9d5d83-ac10-4d15-8ec0-7be97ac05ebc"  width="20" height="20" alt="이모티콘"> 김정훈
+<img src="https://github.com/user-attachments/assets/f1c6fb4c-4980-4551-850e-04c13fa47ca7"   width="20" height="20" alt="이모티콘"> 김진경
+<img src="https://github.com/user-attachments/assets/8b28a77c-607a-4ff0-86c6-5ea120f46909" width="20" height="20" alt="이모티콘"> (팀장)이지연</h4>
 
 </div>
 
