@@ -49,6 +49,7 @@
 </div>
 
 <h2>프로젝트 기간</h2>
+2026<br>
 1/30(금): 기획 완료(요구사항정의서, WBS)<br>
 2/2(월): ERD 설계 초안 피드백<br>
 2/3(화): ERD 설계 완료 및 프로젝트 생성<br>
@@ -59,6 +60,8 @@
 3/18(수): 팀별 발표<br>
 
 <h2>프로젝트 개요</h2>
+공연 좌석 예매시스템 
+
 <h4>아이디어 기획</h4>
 
 
@@ -69,6 +72,7 @@
 <p align="center">
 </p>
 <h2>:gift: 요구사항 정의</h2>
+https://docs.google.com/spreadsheets/d/1G4u5eOhE2dxuD6NmBXRwQJsuR-VJ2jt_28R9tWOxQ-o/edit?gid=1760002883#gid=1760002883
 
 <p align="center", width=100%>	
 <img width="2816" height="1536" alt="정의 이미지" src="https://github.com/user-attachments/assets/eceae756-39b7-419c-a111-945a4d69c1e4" />
@@ -104,54 +108,7 @@
 <h2>서비스별 주요 기능 소개</h2>
 <h3>계층 구조 설계</h3>
 
-```
-C:.
-├─.idea
-├─.mvn
-│  └─wrapper
-└─src
-   └─main
-      ├─java
-      │  └─com
-      │      └─encore
-      │          └─bbs
-      │              ├─board
-      │              │  ├─controller
-      │              │  ├─dto
-      │              │  ├─mapper
-      │              │  └─service
-      │              ├─chat
-      │              │  ├─config
-      │              │  ├─controller
-      │              │  ├─model
-      │              │  ├─repository
-      │              │  └─service
-      │              ├─comment
-      │              │  ├─controller
-      │              │  ├─dto
-      │              │  ├─mapper
-      │              │  └─service
-      │              ├─config
-      │              └─member
-      │                  ├─controller
-      │                  ├─dto
-      │                  ├─handler
-      │                  ├─mapper
-      │                  └─service
-      └─resources
-          ├─mapper
-          ├─static
-          │  ├─css
-          │  ├─images
-          │  │  └─main
-          │  └─js
-          └─templates
-              ├─bbs
-              ├─chat
-              ├─common
-              │  ├─fragments
-              │  └─layout
-              └─member
+```java
 ```
 
 <h3>클래스 간 관계도</h3>
@@ -160,7 +117,6 @@ C:.
 
 <h2>QA</h2>
 
-![image](https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/148880521/cba9aec0-b121-47d6-bbdf-57d9d4ff3474)
 
 
 
