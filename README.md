@@ -4,7 +4,7 @@
 <br>
 
 <div align=center>
-<h3>Quicketing</h3>
+<h3>Quicketing(가제)</h3>
 <h4>5팀  김정훈
 김진경
  (팀장)이지연</h4>
@@ -46,7 +46,6 @@
 
 <h2>팀원 소개</h2>
 <div align=center>
-	<img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/142721325/4087f048-7e9a-464a-92fb-79849b862ff8" width="100%">
 </div>
 
 <h2>프로젝트 기간</h2>
@@ -60,9 +59,8 @@
 3/18(수): 팀별 발표<br>
 
 <h2>프로젝트 개요</h2>
-<h4>:small_blue_diamond:아이디어 기획</h4>
+<h4>아이디어 기획</h4>
 
-![iOS 이미지](https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/148880521/1bf9cb85-c073-4cd4-bce8-7b718b49f5e9)
 
 
 <h4>프로젝트 설계</h4>
