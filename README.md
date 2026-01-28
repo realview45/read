@@ -5,9 +5,10 @@
 
 <div align=center>
 <h3>NomadLog</h3>
-<h4>5팀 <img src="https://github.com/user-attachments/assets/997a68cc-ac08-4790-9c85-ee21de323adf"  width="25" height="25" alt="이모티콘"> 김정훈
-<img src="https://github.com/user-attachments/assets/8bde8def-d40a-4437-a7c7-080c6090f007"   width="25" height="25" alt="이모티콘"> 김진경
-<img src="https://github.com/user-attachments/assets/0932dcbe-bfcc-4638-a76e-6edd1dd51f7d"  width="25" height="25" alt="이모티콘"> 이지연</h4>
+<h4>5팀 <img src="https://github.com/user-attachments/assets/fb9d5d83-ac10-4d15-8ec0-7be97ac05ebc"  width="25" height="25" alt="이모티콘"> 김정훈
+<img src="https://github.com/user-attachments/assets/f1c6fb4c-4980-4551-850e-04c13fa47ca7"   width="25" height="25" alt="이모티콘"> 김진경
+<img src="https://github.com/user-attachments/assets/8b28a77c-607a-4ff0-86c6-5ea120f46909" width="10" height="10" alt="이모티콘"> (팀장)이지연</h4>
+
 </div>
 
 <br>
@@ -174,6 +175,6 @@ C:.
 
 
 <h2>회고 </h2>
-<img src="https://github.com/user-attachments/assets/997a68cc-ac08-4790-9c85-ee21de323adf"  width="25" height="25" alt="이모티콘"> 정훈:
-<img src="https://github.com/user-attachments/assets/8bde8def-d40a-4437-a7c7-080c6090f007"   width="25" height="25" alt="이모티콘"> 진경:
-<img src="https://github.com/user-attachments/assets/0932dcbe-bfcc-4638-a76e-6edd1dd51f7d"  width="25" height="25" alt="이모티콘"> 지연:
+<img src="https://github.com/user-attachments/assets/fb9d5d83-ac10-4d15-8ec0-7be97ac05ebc"  width="25" height="25" alt="이모티콘"> 정훈:
+<img src="https://github.com/user-attachments/assets/f1c6fb4c-4980-4551-850e-04c13fa47ca7"   width="25" height="25" alt="이모티콘"> 진경:
+<img src="https://github.com/user-attachments/assets/8b28a77c-607a-4ff0-86c6-5ea120f46909" width="10" height="10" alt="이모티콘"> 지연:
