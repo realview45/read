@@ -74,8 +74,9 @@
 <h2>:gift: 요구사항 정의</h2>
 <details>
 <summary>
-https://docs.google.com/spreadsheets/d/1G4u5eOhE2dxuD6NmBXRwQJsuR-VJ2jt_28R9tWOxQ-o/edit?gid=1760002883#gid=1760002883
+
 </summary>
+https://docs.google.com/spreadsheets/d/1G4u5eOhE2dxuD6NmBXRwQJsuR-VJ2jt_28R9tWOxQ-o/edit?gid=1760002883#gid=1760002883
 </details>
 <p align="center", width=100%>	
 <img width="2816" height="1536" alt="정의 이미지" src="https://github.com/user-attachments/assets/eceae756-39b7-419c-a111-945a4d69c1e4" />
