@@ -146,7 +146,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/142721325/dfeb3db6-3c3c-43b9-bb60-6d3bb47c0ead" width="600" height="600">
+	<img width="2213" height="1067" alt="er diagram" src="https://github.com/user-attachments/assets/1409eb09-8163-4502-a678-7bf5c5fd0fec" />
+	
 </p>
 
 ## - Entity Relationship Diagram (ERD)
