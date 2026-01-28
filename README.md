@@ -4,7 +4,7 @@
 <br>
 
 <div align=center>
-<h3>NomadLog</h3>
+<h3>Quicketing</h3>
 <h4>5팀  김정훈
 김진경
  (팀장)이지연</h4>
